@@ -1,4 +1,4 @@
-# Kartal.AI Chatbot - Mermaid Diagrams
+# AWS.Chatbot Chatbot - Mermaid Diagrams
 
 ## 1. System Architecture Diagram
 
@@ -174,7 +174,7 @@ graph LR
 
 ```mermaid
 mindmap
-  root((🤖 Kartal.AI<br/>Chatbot))
+  root((🤖 AWS.Chatbot<br/>Chatbot))
     (Backend)
       FastAPI
       Python 3.9+

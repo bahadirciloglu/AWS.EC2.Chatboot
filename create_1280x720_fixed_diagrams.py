@@ -139,7 +139,7 @@ def render_mermaid_to_fixed_size(mermaid_code, diagram_name, driver):
 
 def process_mermaid_files():
     """Process all Mermaid files and create fixed-size PNG images"""
-    print("🎨 Kartal.AI 1280x720 Sabit Boyut Mermaid Diagram Generator")
+    print("🎨 AWS.Chatbot 1280x720 Sabit Boyut Mermaid Diagram Generator")
     print("=" * 60)
     
     # Create output directory

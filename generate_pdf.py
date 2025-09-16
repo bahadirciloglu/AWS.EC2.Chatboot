@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PDF Generator for Kartal.AI Architecture Diagram
+PDF Generator for AWS.Chatbot Architecture Diagram
 Uses reportlab to create a professional PDF document
 """
 
@@ -22,7 +22,7 @@ import os
 def create_simple_pdf():
     """Create a simple text-based PDF alternative"""
     content = """
-KARTAL.AI CHATBOT - SYSTEM ARCHITECTURE
+AWS.CHATBOT CHATBOT - SYSTEM ARCHITECTURE
 ==================================
 
 PROJECT OVERVIEW
@@ -135,14 +135,14 @@ COMPLIANCE & SECURITY
 - Data masking for PII protection
 """
     
-    with open('Kartal.AI_Architecture_Simple.txt', 'w', encoding='utf-8') as f:
+    with open('AWS.Chatbot_Architecture_Simple.txt', 'w', encoding='utf-8') as f:
         f.write(content)
     
-    print("Created Kartal.AI_Architecture_Simple.txt")
+    print("Created AWS.Chatbot_Architecture_Simple.txt")
 
 def create_reportlab_pdf():
     """Create a professional PDF using ReportLab"""
-    doc = SimpleDocTemplate("Kartal.AI_Architecture.pdf", pagesize=A4)
+    doc = SimpleDocTemplate("AWS.Chatbot_Architecture.pdf", pagesize=A4)
     styles = getSampleStyleSheet()
     story = []
     
@@ -155,7 +155,7 @@ def create_reportlab_pdf():
         alignment=TA_CENTER,
         textColor=colors.darkblue
     )
-    story.append(Paragraph("🤖 Kartal.AI Chatbot - System Architecture", title_style))
+    story.append(Paragraph("🤖 AWS.Chatbot Chatbot - System Architecture", title_style))
     story.append(Spacer(1, 20))
     
     # Project Overview
@@ -255,7 +255,7 @@ def create_reportlab_pdf():
     
     # Build PDF
     doc.build(story)
-    print("Created Kartal.AI_Architecture.pdf")
+    print("Created AWS.Chatbot_Architecture.pdf")
 
 if __name__ == "__main__":
     try:

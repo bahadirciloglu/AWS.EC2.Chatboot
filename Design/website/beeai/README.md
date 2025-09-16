@@ -1,4 +1,4 @@
-# Kartal.AI Project
+# AWS.Chatbot Project
 
 ## Overview
-**URL**: https://www.bahadir.ai 
+**URL**: https://www.aws.chatbot 

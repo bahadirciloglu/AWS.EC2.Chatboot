@@ -1,8 +1,8 @@
-# Kartal.AI Chatbot Kullanıcı Kılavuzu
+# AWS.Chatbot Chatbot Kullanıcı Kılavuzu
 
 ## Genel Bakış
 
-Kartal.AI Chatbot, konaklama ve ağırlama sektörüne özel, yapay zeka destekli bir sohbet ve bilgi tabanı platformudur. Kullanıcılar, doğal dilde sorular sorarak hızlı ve doğru yanıtlar alabilirler.
+AWS.Chatbot Chatbot, konaklama ve ağırlama sektörüne özel, yapay zeka destekli bir sohbet ve bilgi tabanı platformudur. Kullanıcılar, doğal dilde sorular sorarak hızlı ve doğru yanıtlar alabilirler.
 
 ## Özellikler
 
@@ -15,25 +15,25 @@ Kartal.AI Chatbot, konaklama ve ağırlama sektörüne özel, yapay zeka destekl
 ## Kullanım
 
 ### Web Arayüzü
-1. Tarayıcınızda `https://www.bahadir.ai` adresine gidin
+1. Tarayıcınızda `https://www.aws.chatbot` adresine gidin
 2. Sağ alt köşedeki sohbet butonuna tıklayın
 3. Sorunuzu yazın veya sesli olarak sorun
 4. Anında yanıt alın
 
 ### API Kullanımı
 ```bash
-curl -X POST "https://api.kartal.ai/chat" \
+curl -X POST "https://api.aws.chatbot/chat" \
   -H "Content-Type: application/json" \
   -d '{"message": "Merhaba, nasılsınız?"}'
 ```
 
 ## Destek
 
-- **Teknik Destek**: tech@kartal.ai
-- **Genel Bilgi**: info@kartal.ai
-- **Destek için**: support@kartal.ai
-- **Web sitesi**: https://www.bahadir.ai
+- **Teknik Destek**: tech@aws.chatbot
+- **Genel Bilgi**: info@aws.chatbot
+- **Destek için**: support@aws.chatbot
+- **Web sitesi**: https://www.aws.chatbot
 
 ---
 
-*Kartal.AI - Transforming Hospitality with AI & Robotics* 
+*AWS.Chatbot - Transforming Hospitality with AI & Robotics* 

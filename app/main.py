@@ -38,7 +38,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://www.bahadir.ai", "https://kartal.ai"],
+    allow_origins=["https://www.aws.chatbot", "https://aws.chatbot"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -46,7 +46,7 @@ app.add_middleware(
 
 # ChromaDB client ve koleksiyon
 chroma_client = chromadb.PersistentClient(path="./chroma_db")
-chroma_collection = chroma_client.get_or_create_collection("kartal_ai_rag")
+chroma_collection = chroma_client.get_or_create_collection("aws_chatbot_rag")
 vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
 
 # Var olan index'i yükle
@@ -70,7 +70,7 @@ async def rag_query(payload: dict = Body(...)):
 
 @app.get("/welcome")
 def welcome():
-    return {"response": "Kartal.AI Chatbot'a hoş geldiniz!"}
+    return {"response": "AWS.Chatbot Chatbot'a hoş geldiniz!"}
 
 
 @app.get("/health")

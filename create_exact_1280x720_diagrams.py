@@ -181,7 +181,7 @@ def force_exact_dimensions(image_data, target_width=1280, target_height=720):
 
 def process_mermaid_files():
     """Process all Mermaid files and create exact-size PNG images"""
-    print("🎨 Kartal.AI Tam 1280x720 Mermaid Diagram Generator")
+    print("🎨 AWS.Chatbot Tam 1280x720 Mermaid Diagram Generator")
     print("=" * 60)
     
     # Create output directory

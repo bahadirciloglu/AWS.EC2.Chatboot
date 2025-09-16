@@ -1,8 +1,8 @@
-# Kartal.AI Chatbot Backend & RAG Platform
+# AWS.Chatbot Chatbot Backend & RAG Platform
 
 ## Proje Açıklaması
 
-Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler sunan, RAG (Retrieval Augmented Generation) tabanlı bir chatbot ve bilgi tabanı platformudur. Proje, AWS Bedrock (Claude), LlamaIndex, ChromaDB ve FastAPI teknolojilerini kullanarak geliştirilmiştir.
+AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler sunan, RAG (Retrieval Augmented Generation) tabanlı bir chatbot ve bilgi tabanı platformudur. Proje, AWS Bedrock (Claude), LlamaIndex, ChromaDB ve FastAPI teknolojilerini kullanarak geliştirilmiştir.
 
 ## Özellikler
 
@@ -48,7 +48,7 @@ python main.py
 ### Welcome
 ```bash
 GET /welcome
-# Yanıt: { "response": "Kartal.AI Chatbot'a hoş geldiniz!" }
+# Yanıt: { "response": "AWS.Chatbot Chatbot'a hoş geldiniz!" }
 ```
 
 ### Chat
@@ -61,8 +61,8 @@ POST /chat
 ### RAG Query
 ```bash
 POST /rag-query
-# İstek: { "soru": "Kartal.AI nedir?" }
-# Yanıt: { "yanit": "Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka..." }
+# İstek: { "soru": "AWS.Chatbot nedir?" }
+# Yanıt: { "yanit": "AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka..." }
 ```
 
 ## Kullanım
@@ -86,10 +86,10 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-- **Website**: https://www.bahadir.ai
-- **Email**: info@kartal.ai
+- **Website**: https://www.aws.chatbot
+- **Email**: info@aws.chatbot
 - **GitHub**: [Repository Link]
 
 ---
 
-*Kartal.AI - Transforming Hospitality with AI & Robotics*
+*AWS.Chatbot - Transforming Hospitality with AI & Robotics*

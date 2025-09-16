@@ -1,7 +1,7 @@
 [
     {
        "soru":"Ajansınız ne iş yapıyor?",
-       "cevap":"Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır. Misafir deneyimini artırmak ve operasyonel verimliliği yükseltmek için AI tabanlı dijital ürünler, özel çözüm entegrasyonları ve robotik sistem desteği sunuyoruz."
+       "cevap":"AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır. Misafir deneyimini artırmak ve operasyonel verimliliği yükseltmek için AI tabanlı dijital ürünler, özel çözüm entegrasyonları ve robotik sistem desteği sunuyoruz."
     },
     {
        "soru":"Hangi hizmetleri sunuyorsunuz?",
@@ -121,63 +121,63 @@
     },
     {
        "soru":"Ajansınız nerede bulunuyor?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Nerede bulunuyorsunuz?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Şirketiniz nerede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Ofisiniz nerede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Merkeziniz nerede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Hangi şehirde faaliyet gösteriyorsunuz?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Şirketinizin merkezi nerede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Ajansınız hangi şehirde?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Nerede hizmet veriyorsunuz?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Şirketinizin adresi nedir?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Adresiniz nedir?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Ajansınızın adresi nedir?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Şirketiniz hangi ülkede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Ajansınız hangi ülkede?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Nerede çalışıyorsunuz?",
-       "cevap":"Kartal.AI, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
+       "cevap":"AWS.Chatbot, Türkiye'de faaliyet göstermektedir. Merkezimiz Eskişehir dedir."
     },
     {
        "soru":"Çalışma saatleriniz nedir?",
@@ -1361,227 +1361,227 @@
     },
     {
        "soru":"Adınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminiz nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Soyadınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin adınız ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin isminiz ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin soyadınız ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı ve soyadınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi ve soyadınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminiz ve soyadınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizi nasıl hitap edebilirim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Size nasıl seslenmeliyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizi nasıl çağırabilirim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Kimsiniz?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Kimle görüşüyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki kişi kim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Chatbotun adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Chatbotun ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI temsilcisinin adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot temsilcisinin adı ne?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI temsilcisinin ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot temsilcisinin ismi ne?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI ekibinden kiminle görüşüyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot ekibinden kiminle görüşüyorum?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki temsilcinin adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki temsilcinin ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizinle mi konuşuyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi ve soyadınızı paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"E-posta adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Size nasıl e-posta gönderebilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Size nasıl mail atabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta ile nasıl ulaşabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail ile nasıl ulaşabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresiniz var mı?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz var mı?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi alabilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi alabilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Telefon numaranız nedir?",
@@ -1649,99 +1649,99 @@
     },
     {
        "soru":"Şirketinizin adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Hangi sektörde faaliyet gösteriyorsunuz?",
@@ -2665,227 +2665,227 @@
     },
     {
        "soru":"Adınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminiz nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Soyadınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin adınız ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin isminiz ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizin soyadınız ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı ve soyadınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi ve soyadınızı öğrenebilir miyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminiz ve soyadınız nedir?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizi nasıl hitap edebilirim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Size nasıl seslenmeliyim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizi nasıl çağırabilirim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Kimsiniz?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Kimle görüşüyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki kişi kim?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Chatbotun adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Chatbotun ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI temsilcisinin adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot temsilcisinin adı ne?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI temsilcisinin ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot temsilcisinin ismi ne?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
-       "soru":"Kartal.AI ekibinden kiminle görüşüyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "soru":"AWS.Chatbot ekibinden kiminle görüşüyorum?",
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki temsilcinin adı ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Karşımdaki temsilcinin ismi ne?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Sizinle mi konuşuyorum?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"Adınızı paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"İsminizi ve soyadınızı paylaşır mısınız?",
-       "cevap":"Ben Kartal.AI ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
+       "cevap":"Ben AWS.Chatbot ekibinden bir temsilciyim. Size yardımcı olabilmem için adınızı paylaşabilir misiniz?"
     },
     {
        "soru":"E-posta adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz nedir?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi öğrenebilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi paylaşır mısınız?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Eposta adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz ne?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Size nasıl e-posta gönderebilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Size nasıl mail atabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta ile nasıl ulaşabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail ile nasıl ulaşabilirim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresiniz var mı?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresiniz var mı?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"E-posta adresinizi alabilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Mail adresinizi alabilir miyim?",
-       "cevap":"Bize bahadir@kartal.ai adresinden ulaşabilirsiniz."
+       "cevap":"Bize bahadir@aws.chatbot adresinden ulaşabilirsiniz."
     },
     {
        "soru":"Telefon numaranız nedir?",
@@ -2953,99 +2953,99 @@
     },
     {
        "soru":"Şirketinizin adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans adı nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans ismi nedir?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans adı ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirketinizin ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firmanızın ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajansınızın ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Şirket ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Firma ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Ajans ismi ne?",
-       "cevap":"Şirketimizin adı Kartal.AI'dür."
+       "cevap":"Şirketimizin adı AWS.Chatbot'dür."
     },
     {
        "soru":"Hangi sektörde faaliyet gösteriyorsunuz?",
@@ -3301,83 +3301,83 @@
     },
     {
        "soru":"Dosya veya doküman paylaşımı (proje dokümanı, teknik şartname vs.)",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Dosya paylaşabilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Doküman paylaşabilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Proje dokümanını gönderebilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Teknik şartnameyi gönderebilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Dosya gönderebilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Doküman gönderebilir miyim?",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Dosya paylaşmak istiyorum.",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Doküman paylaşmak istiyorum.",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Dosya ve doküman paylaşmak istiyorum.",
-       "cevap":"Dosya ve dokümanlarınızı bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Dosya ve dokümanlarınızı bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Ortak projeler geliştirmek isteriz, nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Ortak proje yapmak istiyoruz, nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"İşbirliği yapmak istiyoruz, nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Ortak proje geliştirmek istiyoruz, nasıl ulaşabiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"İşbirliği için nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Ortak proje için nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Ortak proje yapmak istiyoruz, nasıl ulaşabiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"İşbirliği yapmak istiyoruz, nasıl ulaşabiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Ortak proje geliştirmek istiyoruz, nasıl iletişime geçebiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"İşbirliği için nasıl ulaşabiliriz?",
-       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@kartal.ai/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
+       "cevap":"İşbirliği ve ortak projeler için web sitemizden veya doğrudan e-posta:bahadir@aws.chatbot/telefon:05075135234 yoluyla bize ulaşabilirsiniz. Sizinle tanışmak ve fırsatları değerlendirmek isteriz."
     },
     {
        "soru":"Tedarikçi olarak sizinle çalışmak istiyoruz, süreç nasıl işliyor?",
@@ -3421,43 +3421,43 @@
     },
     {
        "soru":"Teknoloji partnerliği için başvuru yapabilir miyiz?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği başvurusu yapabilir miyim?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partneri olmak istiyoruz, başvuru yapabilir miyiz?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partneri olmak istiyorum, başvuru yapabilir miyim?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği için nasıl başvuru yapabilirim?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği başvurusu nasıl yapılır?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği için başvuru yapmak istiyorum.",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partneri olmak için başvuru yapabilir miyim?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği için nasıl başvurabilirim?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Teknoloji partnerliği için başvuru süreci nasıl?",
-       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@kartal.ai"
+       "cevap":"Evet, teknoloji partnerliği için başvuruları memnuniyetle değerlendiriyoruz. Lütfen doğrudan bize ulaşın.Telefon No:05075135234 , Email-adres=bahadir@aws.chatbot"
     },
     {
        "soru":"Yatırım alıyor musunuz?",
@@ -3721,43 +3721,43 @@
     },
     {
        "soru":"Özgeçmişimi nereye gönderebilirim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"CV'mi nereye gönderebilirim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"CV gönderebilir miyim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Özgeçmiş gönderebilir miyim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"CV'mi gönderebilir miyim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Özgeçmişimi gönderebilir miyim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"CV'nizi nereye gönderebilirim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Özgeçmişinizi nereye gönderebilirim?",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"CV göndermek istiyorum.",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Özgeçmiş göndermek istiyorum.",
-       "cevap":"Özgeçmişinizi bahadir@kartal.ai adresine gönderebilirsiniz."
+       "cevap":"Özgeçmişinizi bahadir@aws.chatbot adresine gönderebilirsiniz."
     },
     {
        "soru":"Üniversitelerle işbirliği yapıyor musunuz?",

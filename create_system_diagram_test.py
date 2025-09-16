@@ -86,7 +86,7 @@ def render_system_diagram():
         <html>
         <head>
             <meta charset="utf-8">
-            <title>System Architecture Diagram - Kartal.AI</title>
+            <title>System Architecture Diagram - AWS.Chatbot</title>
             <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
             <style>
                 body {{ 
@@ -124,7 +124,7 @@ def render_system_diagram():
             </style>
         </head>
         <body>
-            <div class="header">🏗️ Kartal.AI Chatbot - System Architecture</div>
+            <div class="header">🏗️ AWS.Chatbot Chatbot - System Architecture</div>
             <div class="mermaid">
                 {mermaid_code}
             </div>
@@ -225,7 +225,7 @@ def force_exact_dimensions(image_data, target_width=1280, target_height=720):
 
 def main():
     """Main function to create system diagram"""
-    print("🏗️ Kartal.AI System Diagram Test Generator (1280x720)")
+    print("🏗️ AWS.Chatbot System Diagram Test Generator (1280x720)")
     print("=" * 60)
     
     # Create output directory

@@ -52,7 +52,7 @@ System Logs → Local Files (with auto-cleanup)
 
 ### Frontend Layer
 - **Nginx**: Reverse proxy, SSL termination, load balancing
-- **CORS**: Configured for kartal.ai domains
+- **CORS**: Configured for aws.chatbot domains
 
 ### API Layer
 - **FastAPI**: REST API endpoints (/chat, /rag-query, /welcome, /health)

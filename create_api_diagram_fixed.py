@@ -35,7 +35,7 @@ def render_api_diagram_fixed():
     try:
         # API Endpoints diagram content - optimized for 1280x720
         mermaid_code = """graph TD
-    API[🔌 FastAPI Application<br/>Kartal.AI Chatbot] --> Welcome[GET /welcome<br/>💚 Health Check]
+    API[🔌 FastAPI Application<br/>AWS.Chatbot Chatbot] --> Welcome[GET /welcome<br/>💚 Health Check]
     API --> Chat[POST /chat<br/>💬 Main Chat Interface]
     API --> RAGQuery[POST /rag-query<br/>🔍 Direct RAG Query]
     API --> Health[GET /health<br/>❤️ System Status]
@@ -65,7 +65,7 @@ def render_api_diagram_fixed():
         <html>
         <head>
             <meta charset="utf-8">
-            <title>API Endpoints Diagram - Kartal.AI</title>
+            <title>API Endpoints Diagram - AWS.Chatbot</title>
             <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
             <style>
                 body {{ 
@@ -102,7 +102,7 @@ def render_api_diagram_fixed():
             </style>
         </head>
         <body>
-            <div class="header">🔌 Kartal.AI Chatbot - API Endpoints</div>
+            <div class="header">🔌 AWS.Chatbot Chatbot - API Endpoints</div>
             <div class="mermaid">
                 {mermaid_code}
             </div>
@@ -203,7 +203,7 @@ def force_exact_dimensions(image_data, target_width=1280, target_height=720):
 
 def main():
     """Main function to create fixed-size API diagram"""
-    print("🎨 Kartal.AI API Diagram Generator (Tam 1280x720)")
+    print("🎨 AWS.Chatbot API Diagram Generator (Tam 1280x720)")
     print("=" * 55)
     
     # Create output directory

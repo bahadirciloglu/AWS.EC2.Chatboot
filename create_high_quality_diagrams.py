@@ -111,7 +111,7 @@ def render_mermaid_to_png(mermaid_code, diagram_name, driver):
 
 def process_mermaid_files():
     """Process all Mermaid files and create PNG images"""
-    print("🎨 Kartal.AI 1280x720 Mermaid Diagram Generator")
+    print("🎨 AWS.Chatbot 1280x720 Mermaid Diagram Generator")
     print("=" * 50)
     
     # Create output directory

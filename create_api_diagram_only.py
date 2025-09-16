@@ -143,7 +143,7 @@ def render_api_diagram():
 
 def main():
     """Main function to create API diagram"""
-    print("🎨 Kartal.AI API Diagram Generator (1280x720)")
+    print("🎨 AWS.Chatbot API Diagram Generator (1280x720)")
     print("=" * 50)
     
     # Create output directory

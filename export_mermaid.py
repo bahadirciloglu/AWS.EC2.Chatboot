@@ -130,7 +130,7 @@ def create_html_preview():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kartal.AI Chatbot - Mermaid Diagrams</title>
+    <title>AWS.Chatbot Chatbot - Mermaid Diagrams</title>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <style>
         body {
@@ -174,7 +174,7 @@ def create_html_preview():
 </head>
 <body>
     <div class="container">
-        <h1>🤖 Kartal.AI Chatbot - System Diagrams</h1>
+        <h1>🤖 AWS.Chatbot Chatbot - System Diagrams</h1>
         
         <h2>1. System Architecture</h2>
         <div class="diagram-container">
@@ -306,7 +306,7 @@ graph TD
     print("✅ HTML önizleme oluşturuldu: mermaid_preview.html")
 
 def main():
-    print("🎨 Kartal.AI Mermaid Diagram Exporter")
+    print("🎨 AWS.Chatbot Mermaid Diagram Exporter")
     print("=" * 40)
     
     # Mermaid diagramlarını çıkar

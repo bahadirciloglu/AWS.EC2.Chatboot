@@ -1,4 +1,4 @@
-# Kartal.AI Chatbot Geliştirici Kılavuzu
+# AWS.Chatbot Chatbot Geliştirici Kılavuzu
 
 ## 1. Proje Mimarisi ve Yapısı
 - FastAPI tabanlı backend

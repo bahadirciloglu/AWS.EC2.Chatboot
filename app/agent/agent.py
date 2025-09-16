@@ -49,7 +49,7 @@ SYSTEM_PROMPT = (
     "2. Sesli asistan\n"
     "3. Servis robot entegrasyonu\n"
     "4. Temizlik robot entegrasyonu\n"
-    "Ya da bize ulaşabilirsiniz, Tel: 05075135234 Email: bahadir@kartal.ai\n"
+    "Ya da bize ulaşabilirsiniz, Tel: 05075135234 Email: bahadir@aws.chatbot\n"
     "Ek kurallar:\n"
     "- Sadece bilgi tabanındaki içeriklere göre cevap ver.\n"
     "- Bilgi tabanında içerik yoksa, 'Üzgünüm, bu konuda bilgi tabanımda bir içerik bulamadım. Lütfen daha farklı veya detaylı bir soru sorabilirsiniz.' de.\n"
@@ -82,7 +82,7 @@ def run_agent(user_input):
             "4. Temizlik robot entegrasyonu\n\n"
             "İletişim için:\n"
             "Tel: 05075135234\n"
-            "Email: bahadir@kartal.ai"
+            "Email: bahadir@aws.chatbot"
         )
     return response
 
@@ -113,7 +113,7 @@ def handle_no_context(request, context_list, max_score, threshold):
         "Lütfen bu konulardan birini seçerek tekrar sorabilirsiniz.\n"
         "Ya da bize ulaşabilirsiniz:\n"
         "Tel: 05075135234\n"
-        "Email: bahadir@kartal.ai"
+        "Email: bahadir@aws.chatbot"
     )}
 
 @sleep_and_retry

@@ -1,8 +1,8 @@
-# Kartal.AI Chatbot - Teknik Dokümantasyon
+# AWS.Chatbot Chatbot - Teknik Dokümantasyon
 
 ## Genel Bakış
 
-Kartal.AI Chatbot, FastAPI tabanlı bir backend, Gradio tabanlı bir frontend, LlamaIndex ile RAG pipeline, ChromaDB vektör veritabanı ve AWS Bedrock (Claude) LLM entegrasyonundan oluşur. Redis, kullanıcı session'larını ve cache'i yönetir. Google Sheets, tüm etkileşimleri loglar.
+AWS.Chatbot Chatbot, FastAPI tabanlı bir backend, Gradio tabanlı bir frontend, LlamaIndex ile RAG pipeline, ChromaDB vektör veritabanı ve AWS Bedrock (Claude) LLM entegrasyonundan oluşur. Redis, kullanıcı session'larını ve cache'i yönetir. Google Sheets, tüm etkileşimleri loglar.
 
 ## API Endpoints
 
@@ -10,7 +10,7 @@ Kartal.AI Chatbot, FastAPI tabanlı bir backend, Gradio tabanlı bir frontend, L
 - **URL:** `/welcome`
 - **Method:** GET
 - **Açıklama:** Sistem sağlık kontrolü ve karşılama mesajı
-- **Yanıt:** `{ "response": "Kartal.AI Chatbot'a hoş geldiniz!" }`
+- **Yanıt:** `{ "response": "AWS.Chatbot Chatbot'a hoş geldiniz!" }`
 
 ### 2. Chat Endpoint
 - **URL:** `/chat`
@@ -31,11 +31,11 @@ Kartal.AI Chatbot, FastAPI tabanlı bir backend, Gradio tabanlı bir frontend, L
 - **Request Body:**
 ```json
 {
-    "query": "Kartal.AI nedir?",
+    "query": "AWS.Chatbot nedir?",
     "context": "optional_context"
 }
 ```
-- **Yanıt:** `{ "yanit": "Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka..." }`
+- **Yanıt:** `{ "yanit": "AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka..." }`
 
 ### 4. Health Check Endpoint
 - **URL:** `/health`
@@ -266,16 +266,16 @@ netstat -tulpn | grep :8000
 ## Support ve İletişim
 
 ### Technical Support
-- **Email:** tech@kartal.ai
-- **Documentation:** https://docs.kartal.ai
+- **Email:** tech@aws.chatbot
+- **Documentation:** https://docs.aws.chatbot
 - **GitHub Issues:** Repository issues
-- **Slack:** #kartal-ai-support
+- **Slack:** #aws-chatbot-support
 
 ### Business Inquiries
-- **Email:** info@kartal.ai
-- **Website:** https://www.bahadir.ai
+- **Email:** info@aws.chatbot
+- **Website:** https://www.aws.chatbot
 - **Phone:** +90 (212) XXX XX XX
 
 ---
 
-*Kartal.AI - Transforming Hospitality with AI & Robotics*
+*AWS.Chatbot - Transforming Hospitality with AI & Robotics*

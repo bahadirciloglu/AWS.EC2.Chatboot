@@ -9,9 +9,9 @@ def test_qa_corpus_load():
 
 def test_qa_corpus_in_chromadb():
     client = chromadb.Client()
-    collection = client.create_collection("kartal_ai_qa_test")
+    collection = client.create_collection("aws_chatbot_qa_test")
     collection.add(
-        {"soru": "Kartal.AI nedir?", "cevap": "Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır."}
+        {"soru": "AWS.Chatbot nedir?", "cevap": "AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır."}
     )
-    results = collection.query(query_texts=["Kartal.AI nedir?"], n_results=1)
-    assert results["documents"][0][0] == "Kartal.AI, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır."
+    results = collection.query(query_texts=["AWS.Chatbot nedir?"], n_results=1)
+    assert results["documents"][0][0] == "AWS.Chatbot, konaklama ve ağırlama sektörüne özel yapay zeka ve robotik çözümler geliştiren bir ajanstır."

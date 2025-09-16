@@ -1,6 +1,6 @@
 import logging
 
-logger = logging.getLogger("kartal_ai")
+logger = logging.getLogger("aws_chatbot")
 logger.setLevel(logging.INFO)
 
 # Konsola log yazmak için handler

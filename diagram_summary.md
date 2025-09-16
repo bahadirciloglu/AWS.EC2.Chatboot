@@ -1,4 +1,4 @@
-# Kartal.AI Chatbot - Mermaid Diagram Özeti
+# AWS.Chatbot Chatbot - Mermaid Diagram Özeti
 
 ## 📊 Oluşturulan Diyagramlar (14 adet)
 
@@ -74,4 +74,4 @@
 - **File Size**: Optimize edilmiş PNG boyutları
 
 ---
-*Kartal.AI Chatbot - AI & Robotics Solutions* 
+*AWS.Chatbot Chatbot - AI & Robotics Solutions* 

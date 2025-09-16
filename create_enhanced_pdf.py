@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced PDF Generator for Kartal.AI Architecture
+Enhanced PDF Generator for AWS.Chatbot Architecture
 Creates a comprehensive, visually appealing PDF document
 """
 
@@ -16,7 +16,7 @@ import os
 
 def create_enhanced_pdf():
     """Create a comprehensive, professional PDF with enhanced visuals"""
-    doc = SimpleDocTemplate("Kartal.AI_Architecture_Enhanced.pdf", pagesize=A4, 
+    doc = SimpleDocTemplate("AWS.Chatbot_Architecture_Enhanced.pdf", pagesize=A4, 
                            topMargin=0.5*inch, bottomMargin=0.5*inch)
     styles = getSampleStyleSheet()
     story = []
@@ -54,7 +54,7 @@ def create_enhanced_pdf():
     
     # Title Page
     story.append(Spacer(1, 1*inch))
-    story.append(Paragraph("🤖 Kartal.AI Chatbot", title_style))
+    story.append(Paragraph("🤖 AWS.Chatbot Chatbot", title_style))
     story.append(Paragraph("System Architecture & Technical Documentation", subtitle_style))
     story.append(Spacer(1, 0.5*inch))
     
@@ -118,7 +118,7 @@ def create_enhanced_pdf():
     # 1. System Overview
     story.append(Paragraph("1. 🎯 System Overview", heading_style))
     overview_text = """
-    Kartal.AI is a sophisticated RAG (Retrieval Augmented Generation) chatbot platform specifically 
+    AWS.Chatbot is a sophisticated RAG (Retrieval Augmented Generation) chatbot platform specifically 
     designed for the hospitality and tourism industry. The system combines cutting-edge AI 
     technologies with robust infrastructure to deliver intelligent, context-aware responses 
     to user queries.
@@ -374,7 +374,7 @@ def create_enhanced_pdf():
     
     # Build PDF
     doc.build(story)
-    print("✅ Enhanced PDF created: Kartal.AI_Architecture_Enhanced.pdf")
+    print("✅ Enhanced PDF created: AWS.Chatbot_Architecture_Enhanced.pdf")
 
 if __name__ == "__main__":
     create_enhanced_pdf()

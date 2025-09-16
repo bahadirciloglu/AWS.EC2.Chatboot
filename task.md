@@ -221,7 +221,7 @@ Kullanıcıya özel geçmiş veya state tutuluyorsa, farklı kullanıcılarla gi
 - [x] İş Paketi: api.conf’u Sadece HTTP (80) için Yapılandır , /etc/nginx/conf.d/api.conf dosyasını aşağıdaki gibi düzenleyin:    
 server {
         listen 80;
-        server_name api.kartal.ai;
+        server_name api.aws.chatbot;
 
         location / {
             proxy_pass http://127.0.0.1:8000;
@@ -233,47 +233,47 @@ server {
     }
     Nginx konfigürasyonunu test edin ve yeniden başlatın:    sudo nginx -t
     sudo systemctl restart nginx
-    curl -i -X POST http://api.kartal.ai/chat \
+    curl -i -X POST http://api.aws.chatbot/chat \
   -H "Content-Type: application/json" \
   -d '{"user_id": "test_user", "message": "Merhaba"}'
 
 - [x] Alan Adı için SSL Sertifikası Al ve HTTPS (443) ile Yapılandır  ,Let’s Encrypt ile SSL sertifikası alın:
-    sudo certbot --nginx -d api.kartal.ai
+    sudo certbot --nginx -d api.aws.chatbot
 Bu komut, Nginx konfigürasyonunu otomatik olarak günceller ve 443 portunu aktif eder.
 Test:
-curl -i -X POST https://api.kartal.ai/chat \
+curl -i -X POST https://api.aws.chatbot/chat \
   -H "Content-Type: application/json" \
   -d '{"user_id": "test_user", "message": "Merhaba"}'
 
 
 
 - [x] 80 ve 443 Portlarından Uygulamaya Erişim Testi ve Son Konfigürasyon Kontrolü
-Hem HTTP (80) hem HTTPS (443) portlarından erişimi test edin:    curl -I http://api.kartal.ai
-    curl -I https://api.kartal.ai
+Hem HTTP (80) hem HTTPS (443) portlarından erişimi test edin:    curl -I http://api.aws.chatbot
+    curl -I https://api.aws.chatbot
 80 portundan gelen isteklerin otomatik olarak 443’e yönlendiğinden (redirect) ve HTTPS ile API yanıtı döndüğünden emin olun.
 Nginx konfigürasyonunu tekrar kontrol edin, gerekirse 80’den 443’e yönlendirme ekleyin:    server {
         listen 80;
-        server_name api.kartal.ai;
+        server_name api.aws.chatbot;
         return 301 https://$host$request_uri;
     }
 
 
-- [x] Canlıda (https://www.bahadir.ai) Tarayıcıdan API’ye İstek At ve Son Kontrol
-Frontend (ör. Vercel’deki) uygulamanızdan, canlıda https://api.kartal.ai/chat adresine istek atın.
+- [x] Canlıda (https://www.aws.chatbot) Tarayıcıdan API’ye İstek At ve Son Kontrol
+Frontend (ör. Vercel’deki) uygulamanızdan, canlıda https://api.aws.chatbot/chat adresine istek atın.
 Tarayıcıda CORS, SSL ve API yanıtı ile ilgili bir hata olup olmadığını kontrol edin.
 Gerekirse CORS ayarlarını FastAPI’de güncelleyin:
     from fastapi.middleware.cors import CORSMiddleware
 
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["https://www.bahadir.ai"],
+        allow_origins=["https://www.aws.chatbot"],
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
     )
 
     Z RAPORU
-API endpoint’leriniz (ör. /chat, /health, vs.) hem doğrudan hem de reverse proxy (https://api.kartal.ai) üzerinden erişilebilir durumda.
+API endpoint’leriniz (ör. /chat, /health, vs.) hem doğrudan hem de reverse proxy (https://api.aws.chatbot) üzerinden erişilebilir durumda.
 CORS ve preflight (OPTIONS) istekleri doğru şekilde yanıtlanıyor.
 Nginx ve FastAPI loglarında istekler ve yanıtlar beklenen şekilde görünüyor.
 WS Bedrock gibi harici servislerden gelen throttling hataları dışında altyapı tarafında bir sorun yok.
@@ -305,7 +305,7 @@ function getOrCreateSessionId() {
 }
 er API Çağrısında Bu Kimlikleri Gönder
 API’ye yapılan her istekte (ör. /chat), body içinde user_id ve session_id’yi gönder.
-Örnek Kod:fetch("https://api.kartal.ai/chat", {
+Örnek Kod:fetch("https://api.aws.chatbot/chat", {
   method: "POST",
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({
