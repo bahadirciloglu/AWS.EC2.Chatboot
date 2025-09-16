@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartal.AI Chatbot - Mermaid Diagrams</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            margin-top: 40px;
+        }
+        .diagram-container {
+            margin: 30px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+        .mermaid {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Kartal.AI Chatbot - System Diagrams</h1>
+        
+        <h2>1. System Architecture</h2>
+        <div class="diagram-container">
+            <div class="mermaid">
+graph TB
+    User[👤 User/Client<br/>Browser] --> Nginx[🔒 Nginx Proxy<br/>SSL/HTTPS]
+    Nginx --> FastAPI[⚡ FastAPI Backend<br/>Port 8000]
+    
+    FastAPI --> Agent[🤖 Agent Module<br/>run_agent]
+    Agent --> RAG[🧠 LlamaIndex<br/>RAG Pipeline]
+    
+    RAG --> Embed[🔤 HuggingFace<br/>Embeddings]
+    RAG --> Vector[🗄️ ChromaDB<br/>Vector Store]
+    RAG --> LLM[☁️ AWS Bedrock<br/>Claude LLM]
+    
+    Agent --> Redis[(⚡ Redis Cache<br/>Sessions)]
+    Agent --> Sheets[📊 Google Sheets<br/>Logging]
+    
+    FastAPI --> Health[💚 Health Checks]
+    
+    subgraph "AI/ML Layer"
+        Embed
+        Vector
+        LLM
+        RAG
+    end
+    
+    subgraph "Data Layer"
+        Redis
+        Vector
+        Sheets
+    end
+    
+    subgraph "Infrastructure"
+        Nginx
+        FastAPI
+        Health
+    end
+    
+    style User fill:#e1f5fe
+    style Nginx fill:#fff3e0
+    style FastAPI fill:#e8f5e8
+    style Agent fill:#f3e5f5
+    style RAG fill:#f3e5f5
+    style Embed fill:#e1f5fe
+    style Vector fill:#fff9c4
+    style LLM fill:#e1f5fe
+    style Redis fill:#ffebee
+    style Sheets fill:#e8f5e8
+            </div>
+        </div>
+        
+        <h2>2. RAG Pipeline Flow</h2>
+        <div class="diagram-container">
+            <div class="mermaid">
+flowchart TD
+    Start([🚀 User Query]) --> Validate{✅ Validate Input}
+    Validate -->|Valid| Embed[🔤 Generate Embeddings<br/>HuggingFace Transformers]
+    Validate -->|Invalid| Error[❌ Return Error]
+    
+    Embed --> Search[🔍 Vector Search<br/>ChromaDB Similarity]
+    Search --> Retrieve[📚 Retrieve Context<br/>Top-K Documents]
+    
+    Retrieve --> Construct[🔧 Construct Prompt<br/>Query + Context]
+    Construct --> Generate[🤖 LLM Generation<br/>AWS Bedrock Claude]
+    
+    Generate --> Process[⚙️ Process Response<br/>Format & Validate]
+    Process --> Log[📝 Log Interaction<br/>Google Sheets]
+    
+    Log --> Cache[💾 Cache Session<br/>Redis Storage]
+    Cache --> Return([📤 Return Response])
+    
+    Error --> Return
+    
+    style Start fill:#4caf50,color:#fff
+    style Return fill:#2196f3,color:#fff
+    style Error fill:#f44336,color:#fff
+    style Generate fill:#9c27b0,color:#fff
+            </div>
+        </div>
+        
+        <h2>3. API Endpoints</h2>
+        <div class="diagram-container">
+            <div class="mermaid">
+graph TD
+    API[🔌 FastAPI Application] --> Welcome[GET /welcome<br/>💚 Health Check]
+    API --> Chat[POST /chat<br/>💬 Main Chat Interface]
+    API --> RAGQuery[POST /rag-query<br/>🔍 Direct RAG Query]
+    API --> Health[GET /health<br/>❤️ System Status]
+    API --> TestRedis[GET /test-redis<br/>⚡ Redis Test]
+    API --> TestBedrock[GET /test-bedrock<br/>☁️ Bedrock Test]
+    
+    Chat --> SessionMgmt[👥 Session Management]
+    Chat --> Logging[📝 Interaction Logging]
+    
+    RAGQuery --> DirectRAG[🧠 Direct RAG Processing]
+    
+    Health --> SystemCheck[⚙️ System Health Check]
+    TestRedis --> RedisConn[⚡ Redis Connection Test]
+    TestBedrock --> BedrockConn[☁️ AWS Bedrock Test]
+    
+    style API fill:#2196f3,color:#fff
+    style Chat fill:#4caf50,color:#fff
+    style RAGQuery fill:#9c27b0,color:#fff
+    style Health fill:#ff9800,color:#fff
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        mermaid.initialize({ 
+            startOnLoad: true,
+            theme: 'default',
+            themeVariables: {
+                primaryColor: '#3498db',
+                primaryTextColor: '#2c3e50',
+                primaryBorderColor: '#2980b9',
+                lineColor: '#34495e'
+            }
+        });
+    </script>
+</body>
+</html>

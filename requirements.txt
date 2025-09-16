@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+langchain
+llama-index
+boto3
+python-dotenv
+pydantic
+redis
+chromadb          # veya chromadb, qdrant-client, pinecone-client (hangisini kullanıyorsan)
+pytest
+httpx
+watchtower          # AWS CloudWatch logları için (opsiyonel)
+llama-index-core
+llama-index-llms-bedrock
+llama-index-embeddings-huggingface
+sentence-transformers
+transformers
